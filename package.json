@@ -1,15 +1,15 @@
 {
-  "name": "covid-africa",
+  "name": "covid19-360",
   "version": "1.0.0",
-  "description": "Chart showing Covid19 cases particulary in Africa",
+  "description": "Covid test centers",
   "main": "app.js",
   "scripts": {
     "test": "npm test"
   },
   "keywords": [
     "covid",
-    "chart",
-    "react"
+    "test",
+    "centers"
   ],
   "author": "ceelogre",
   "license": "ISC",
